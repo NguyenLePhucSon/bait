@@ -1,0 +1,14 @@
+{
+  "name": "bait",
+  "version": "1.0.0",
+  "description": "Minimal Node.js app for Render",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "author": "",
+  "license": "ISC"
+}
